@@ -1,0 +1,9 @@
+streamlit
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+faster-whisper
+gTTS
+streamlit_mic_recorder
+streamlit_float
+ctranslate2==4.4.0
